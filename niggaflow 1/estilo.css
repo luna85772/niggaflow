@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body { text-align: center;
 font-size:16px;
 font-family:arial;
@@ -10,3 +11,9 @@ border:2px solid black;
 }
 
 a.link, a.visited,a.hover, a.active 
+=======
+body {
+ align-content: center; 
+font-size: 130%
+}
+>>>>>>> adfe0152f5399bac25ed92c92fce44d6486e4f0f
